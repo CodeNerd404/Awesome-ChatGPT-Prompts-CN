@@ -43,33 +43,6 @@
 2. 运营：帮你写文案，假定一些前提条件和文风后直接能生成你需要的文案。
 3. 所有人：现在ChatGPT都取代不了你，但是能给你提升工作效率，堪比2000年前搜索引擎诞生后对人类和很多职业的影响
 
-
-
-### ChatGPT 直接体验（能科学上网就能用）
-
-[ChatGPT Demo](https://chatgpt.voloxr.com)
-
-## 微信体验交流群
-
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！在这里，你可以体验到最先进的人工智能技术，与志同道合的人交流，共同提升你的知识水平。不管你是专业人士还是爱好者，都欢迎加入我们的群体！
-![Pic1](images/weixingroup.jpg) 
-
-
-
-
-## 捐赠支持
-
-您好，我们非常感激您对此项目的关注和支持。我们一直在努力，提供最有价值和易于理解的指南。如果您觉得我们的项目对您有所帮助，请考虑捐赠支持我们。您的捐赠将帮助我们不断完善项目内容，为您提供更好的服务，并吸引更多的读者和使用者。谢谢您的支持！
-
-| 微信         | 支付宝           |  
-| ------------ | --------------- |  
-| ![Pic2](images/wechat.jpg)  | ![Pic2](images/alipay.jpg) |  
-
-
-## 一些推荐的OpenAI和ChatGPT二次开发项目
-Unreal OpenAPI 蓝图对接--[OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal)
-
-
 # **🧠 CHATGPT提示词**
 
 [ChatGPT](https://chat.openai.com/chat)模型是由[OpenAI](https://openai.com/)训练的大型语言模型，能够生成类似人类的文本。通过为其提供提示，它可以生成继续对话或扩展给定提示的响应。
@@ -126,13 +99,6 @@ Unreal OpenAPI 蓝图对接--[OpenAI-Api-Unreal](https://github.com/KellanM/Open
 贡献者： [@f](https://github.com/f) **替代**： 语法， 谷歌翻译
 
 > 我希望你充当英语翻译，拼写校正和改进者。我会用任何语言和你说话，你会检测语言，翻译它，并用我的文本的更正和改进版本回答，用英语。我希望你用更漂亮、更优雅的高级英语单词和句子代替我简化的 A0 级单词和句子。保持含义相同，但使它们更具文学性。我希望你只回复更正，改进，没有别的，不要写解释。我的第一句话是“istanbulu cok seviyom burada olmak cok guzel”
-> 
-
-## **✂️担任面试官`position`**
-
-贡献者：[@f](https://github.com/f)&[@iltekin](https://github.com/iltekin)**示例**：Node.js后端，React 前端开发人员，全栈开发人员，iOS开发人员等。
-
-> 我希望你扮演面试官的角色。我将成为候选人，你会问我这个职位的面试问题。我希望你只以面试官的身份回答。不要一次写下所有的保护。我希望你只接受我的采访。问我问题并等待我的回答。不要写解释。像面试官一样一个接一个地问我问题，然后等待我的回答。我的第一句话是“嗨”position
 > 
 
 ## **✂️充当 JavaScript 控制台**
